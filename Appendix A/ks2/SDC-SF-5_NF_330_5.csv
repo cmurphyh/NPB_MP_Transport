@@ -1,0 +1,103 @@
+﻿Site Code,Loc Code,Event,Field ID,Sample ID,Unique ID,Particle,Color,Morphology,1st Order Morph,Color-Group,Confidence (?),Comment,QA_Color-Morph,Projected SA [mm2],Feret,MinFeret,Length
+SDC,1,SF-5,SDC-SF-5-N-1,SDC-SF-5,SDC-SF-5-N-1_S0-0_A_1,1,green,fragment,Non-Fiber,Greens,0,has a vertical striped pattern.,done,0.764,1.726,0.705,0
+SDC,1,SF-5,SDC-SF-5-N-1,SDC-SF-5,SDC-SF-5-N-1_S0-0_A_3,3,white,fragment,Non-Fiber,Whites,0,particle could be flattened out.,done,0.074,0.444,0.221,0
+SDC,1,SF-5,SDC-SF-5-N-1,SDC-SF-5,SDC-SF-5-N-1_S0-0_A_4,4,white,fragment,Non-Fiber,Whites,0,0,done,0.112,0.628,0.313,0
+SDC,1,SF-5,SDC-SF-5-N-1,SDC-SF-5,SDC-SF-5-N-1_S0-0_A_5,5,clear,fragment,Non-Fiber,Transparent,0,0,done,0.124,0.536,0.382,0
+SDC,1,SF-5,SDC-SF-5-N-1,SDC-SF-5,SDC-SF-5-N-1_S0-0_A_8,8,clear,fragment,Non-Fiber,Transparent,0,flat,done,0.521,1.617,0.535,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_A_3,3,clear,fragment,Non-Fiber,Transparent,0,0,done,0.212,0.8,0.44,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_A_5,5,black,fragment,Non-Fiber,Blacks,0,"could be a fragment, really thick string and the ends look like foam.",done,3.918,3.77,1.627,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_B_11,11,green,fragment,Non-Fiber,Greens,0,0,done,0.191,1.069,0.419,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_B_22,22,white,fragment,Non-Fiber,Whites,0,0,done,0.425,1.017,0.823,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_B_24,24,brown,fragment,Non-Fiber,Blacks,0,0,done,0.085,0.436,0.276,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_B_34,34,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",done,0.212,0.606,0.514,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_B_41,41,black,fragment,Non-Fiber,Blacks,0,0,done,0.131,0.716,0.291,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_B_44,44,green,fragment,Non-Fiber,Greens,0,0,done,0.081,0.475,0.289,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_B_46,46,brown,fragment,Non-Fiber,Blacks,0,0,done,0.114,0.504,0.339,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_A_1,1,blue,fragment,Non-Fiber,Blues,0,an organic is attached to the particle.,done,0.109,0.618,0.327,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_A_4,4,green,fragment,Non-Fiber,Greens,0,0,done,0.499,1.061,0.648,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_A_7,7,white,fragment,Non-Fiber,Whites,0,0,done,0.817,1.885,0.711,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_A_10,10,black,fragment,Non-Fiber,Blacks,0,0,done,0.098,1.098,0.196,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_A_11,11,blue,fragment,Non-Fiber,Blues,0,0,done,0.526,2.135,1.169,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_A_12,12,gray,fragment,Non-Fiber,Blacks,0,0,done,0.183,2.059,0.165,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_B_7,7,blue,fragment,Non-Fiber,Blues,0,0,done,0.051,0.377,0.247,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_B_9,9,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",done,0.223,1.023,0.403,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_B_11,11,black,fragment,Non-Fiber,Blacks,0,0,done,0.087,0.585,0.48,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_B_12,12,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",done,0.145,0.49,0.444,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_B_16,16,green,fragment,Non-Fiber,Greens,0,0,done,0.399,2.137,0.31,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_B_18,18,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",done,0.279,0.889,0.454,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_B_19,19,pink,fragment,Non-Fiber,Reds,0,0,done,0.048,0.794,0.349,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_B_20,20,pink,fragment,Non-Fiber,Reds,0,0,done,0.051,0.347,0.233,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_B_23,23,pink,fragment,Non-Fiber,Reds,0,0,done,0.123,0.472,0.372,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_B_28,28,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",done,0.093,0.463,0.351,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_B_29,29,gray,fragment,Non-Fiber,Blacks,0,0,done,0.159,0.903,0.307,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_B_31,31,blue,fragment,Non-Fiber,Blues,0,0,done,1.417,1.942,1.305,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_B_32,32,green,fragment,Non-Fiber,Greens,0,0,done,0.117,0.545,0.343,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_B_39,39,pink,fragment,Non-Fiber,Reds,0,broke into multiple pieces easily.,done,0.131,0.574,0.386,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_B_41,41,pink,fragment,Non-Fiber,Reds,0,0,done,0.061,0.44,0.233,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_B_42,42,blue,fragment,Non-Fiber,Blues,0,has pointy edges.,done,0.197,0.833,0.616,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_B_44,44,white,fragment,Non-Fiber,Whites,0,"has a foam-like texture, could make dents in the particle.",done,1.461,2.186,1.253,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_C_2,2,pink,fragment,Non-Fiber,Reds,0,broke into multiple pieces easily.,done,0.082,0.439,0.315,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_C_6,6,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",done,0.134,0.554,0.384,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_C_7,7,green,fragment,Non-Fiber,Greens,0,0,done,1.428,4.644,0.488,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_C_9,9,clear,fragment,Non-Fiber,Transparent,0,0,done,0.235,0.925,0.473,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_C_10,10,blue,fragment,Non-Fiber,Blues,0,0,done,0.222,1.303,0.405,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_C_11,11,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back. has a few clear fibers combined with the particle.",done,0.436,1.171,0.679,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_C_14,14,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",done,0.138,0.619,0.336,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_C_16,16,clear,fragment,Non-Fiber,Transparent,0,0,done,0.118,0.74,0.323,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_C_18,18,white,foam,Non-Fiber,Whites,0,"has the foamy appearance, but could make dents to the particle.",done,0.506,1.102,0.709,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_C_22,22,black,fragment,Non-Fiber,Blacks,0,0,done,0.187,1.143,0.399,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_C_23,23,black,fragment,Non-Fiber,Blacks,0,0,done,0.101,0.653,0.343,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_C_24,24,black,fragment,Non-Fiber,Blacks,0,0,done,0.463,1.883,0.55,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_C_25,25,red,fragment,Non-Fiber,Reds,0,0,done,0.043,0.384,0.161,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_C_26,26,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces easily.,done,0.242,0.755,0.513,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_C_27,27,red,fragment,Non-Fiber,Reds,0,0,done,4.724,4.356,1.47,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_C_28,28,blue,fragment,Non-Fiber,Blues,0,0,done,0.259,0.862,0.466,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_C_30,30,red,fragment,Non-Fiber,Reds,0,representarive?,done,0.202,0.73,0.497,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_C_31,31,red,fragment,Non-Fiber,Reds,0,same as 30,done,1.411,1.881,0.966,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_C_33,33,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",done,0.13,0.785,0.353,0
+SDC,1,SF-5,SDC-SF-5-N-1,SDC-SF-5,SDC-SF-5-N-1_S0-0_C_6,6,pink,fragment,Non-Fiber,Reds,0,0,0,0.232,0.729,0.546,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_C_1,1,clear,fragment,Non-Fiber,Transparent,0,0,0,0.334,1.519,0.478,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_C_2,2,blue,fragment,Non-Fiber,Blues,0,0,0,0.111,0.608,0.351,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_C_3,3,gray,fragment,Non-Fiber,Blacks,0,0,0,0.13,2.24,0.221,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_C_4,4,blue,fragment,Non-Fiber,Blues,0,0,0,0.341,1.025,0.583,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_C_5,5,white,fragment,Non-Fiber,Whites,0,0,0,0.905,2.707,1.231,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_C_6,6,gray,fragment,Non-Fiber,Blacks,0,0,0,0.138,0.554,0.377,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_C_8,8,green,fragment,Non-Fiber,Greens,0,0,0,0.102,0.596,0.355,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_C_9,9,clear,fragment,Non-Fiber,Transparent,0,0,0,0.062,0.342,0.26,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_C_11,11,clear,fragment,Non-Fiber,Transparent,0,0,0,0.273,2.109,0.433,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_C_12,12,white,fragment,Non-Fiber,Whites,0,0,0,0.243,0.818,0.561,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_C_18,18,blue,fragment,Non-Fiber,Blues,0,0,0,0.079,0.785,0.372,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_C_21,21,gray,fragment,Non-Fiber,Blacks,0,0,0,0.084,1.091,0.183,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_C_23,23,gray,fragment,Non-Fiber,Blacks,0,0,0,0.139,0.574,0.429,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_C_27,27,gray,fragment,Non-Fiber,Blacks,0,0,0,0.000125,0.867,0.076,0.896
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_D_2,2,clear,fragment,Non-Fiber,Transparent,0,0,0,0.134,0.728,0.374,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_D_3,3,brown,fragment,Non-Fiber,Blacks,0,0,0,0.000375,2.673,0.477,4.299
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_D_4,4,gray,fragment,Non-Fiber,Blacks,0,0,0,0.000188,1.856,0.266,1.984
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_D_5,5,clear,fragment,Non-Fiber,Transparent,0,0,0,0.000188,0.836,0.481,1.951
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_D_6,6,gray,fragment,Non-Fiber,Blacks,0,0,0,0.042,0.352,0.204,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_D_7,7,clear,fragment,Non-Fiber,Transparent,0,0,0,0.249,0.77,0.495,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_D_8,8,white,fragment,Non-Fiber,Whites,0,0,0,0.242,1.073,0.345,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_D_15,15,pink,fragment,Non-Fiber,Reds,0,0,0,0.099,0.435,0.385,0
+SDC,2,SF-5,SDC-SF-5-N-2,SDC-SF-5,SDC-SF-5-N-2_S0-0_D_16,16,black,fragment,Non-Fiber,Blacks,0,0,0,0.079,0.838,0.347,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_D_1,1,gray,fragment,Non-Fiber,Blacks,0,0,0,0.055,0.865,0.309,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_D_2,2,gray,fragment,Non-Fiber,Blacks,0,0,0,0.079,0.64,0.392,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_D_6,6,green,fragment,Non-Fiber,Greens,0,0,0,0.052,0.347,0.233,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_D_7,7,gray,fragment,Non-Fiber,Blacks,0,0,0,0.37,1.145,0.53,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_D_8,8,green,fragment,Non-Fiber,Greens,0,0,0,0.145,0.707,0.37,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_D_9,9,black,TW,Non-Fiber,Blacks,0,0,0,0.085,0.373,0.32,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_D_12,12,white,fragment,Non-Fiber,Whites,0,0,0,0.656,3.033,1.12,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_D_14,14,white,fragment,Non-Fiber,Whites,0,0,0,0.148,0.731,0.369,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_D_23,23,clear,fragment,Non-Fiber,Transparent,0,0,0,0.000251,2.316,0.689,2.893
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_D_28,28,green,fragment,Non-Fiber,Greens,0,0,0,0.000188,1.495,0.205,1.622
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_D_30,30,black,TW,Non-Fiber,Blacks,0,0,0,0.044,0.39,0.211,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_D_36,36,white,fragment,Non-Fiber,Whites,0,0,0,0.17,0.768,0.374,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_D_37,37,white,fragment,Non-Fiber,Whites,0,0,0,0.096,0.508,0.326,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_D_38,38,black,fragment,Non-Fiber,Blacks,0,0,0,0.094,1.124,0.394,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_D_39,39,gray,fragment,Non-Fiber,Blacks,0,0,0,0.265,1.1,0.441,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_D_40,40,gray,fragment,Non-Fiber,Blacks,0,0,0,0.148,0.62,0.365,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_D_41,41,black,fragment,Non-Fiber,Blacks,0,0,0,0.096,2.424,0.401,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_D_44,44,gray,fragment,Non-Fiber,Blacks,0,0,0,1.14,2.558,0.978,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_D_45,45,gray,fragment,Non-Fiber,Blacks,0,0,0,0.057,0.925,0.269,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_D_46,46,black,TW,Non-Fiber,Blacks,0,0,0,0.097,0.807,0.215,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_D_47,47,green,fragment,Non-Fiber,Greens,0,0,0,0.147,0.624,0.353,0
+SDC,3,SF-5,SDC-SF-5-N-3,SDC-SF-5,SDC-SF-5-N-3_S0-0_D_48,48,black,TW,Non-Fiber,Blacks,0,0,0,0.08,0.511,0.266,0

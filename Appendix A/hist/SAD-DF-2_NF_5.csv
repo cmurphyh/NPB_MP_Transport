@@ -1,0 +1,280 @@
+﻿Site Code,Loc Code,Event,Field ID,Sample ID,Unique ID,Particle,Color,Morphology,1st Order Morph,Color-Group,Confidence (?),Comment,QA_Color-Morph,Projected SA [mm2],Feret,MinFeret,Length
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_1,1,black,fragment,Non-Fiber,Blacks,0,0,0,0.349,1.026,0.487,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_2,2,black,fragment,Non-Fiber,Blacks,0,0,0,0.346,0.933,0.828,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_3,3,black,fragment,Non-Fiber,Blacks,0,0,0,0.14,0.653,0.442,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_4,4,blue,fragment,Non-Fiber,Blues,0,0,0,0.081,0.408,0.333,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_5,5,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces easily.,0,0.137,0.772,0.39,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_7,7,black,fragment,Non-Fiber,Blacks,0,could make dents in the particle.,0,0.127,0.499,0.359,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_9,9,black,fragment,Non-Fiber,Blacks,0,0,0,0.069,0.515,0.317,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_10,10,gray,fragment,Non-Fiber,Blacks,0,0,0,0.096,0.874,0.451,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_11,11,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces easily.,0,0.091,0.863,0.196,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_13,13,black,fragment,Non-Fiber,Blacks,0,0,0,0.161,0.606,0.453,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_14,14,black,fragment,Non-Fiber,Blacks,0,0,0,0.064,0.51,0.226,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_15,15,black,fragment,Non-Fiber,Blacks,0,0,0,0.059,0.533,0.266,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_16,16,black,fragment,Non-Fiber,Blacks,0,0,0,0.108,0.592,0.489,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_17,17,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces.,0,0.039,0.545,0.13,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_18,18,black,fragment,Non-Fiber,Blacks,0,0,0,0.06,0.495,0.231,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_19,19,black,fragment,Non-Fiber,Blacks,0,0,0,0.115,0.823,0.319,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_20,20,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces.,0,0.097,0.747,0.231,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_22,22,black,fragment,Non-Fiber,Blacks,0,0,0,0.089,0.535,0.383,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_23,23,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces.,0,0.067,0.743,0.218,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_24,24,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces.,0,0.036,0.584,0.149,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_25,25,black,fragment,Non-Fiber,Blacks,0,0,0,0.113,0.573,0.303,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_26,26,black,fragment,Non-Fiber,Blacks,0,0,0,0.114,0.542,0.3,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_27,27,black,fragment,Non-Fiber,Blacks,0,0,0,0.138,1.019,0.574,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_28,28,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.193,0.832,0.466,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_29,29,black,fragment,Non-Fiber,Blacks,0,0,0,0.094,0.578,0.306,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_30,30,black,fragment,Non-Fiber,Blacks,0,0,0,0.055,0.393,0.236,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_31,31,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.121,0.614,0.314,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_34,34,black,fragment,Non-Fiber,Blacks,0,0,0,0.353,1.029,0.72,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_35,35,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces easily.,0,0.083,0.77,0.352,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_37,37,blue,fragment,Non-Fiber,Blues,0,0,0,0.077,1.17,0.274,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_38,38,black,fragment,Non-Fiber,Blacks,0,0,0,0.08,0.528,0.317,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_39,39,black,fragment,Non-Fiber,Blacks,0,0,0,0.065,0.661,0.178,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_41,41,gray,fragment,Non-Fiber,Blacks,0,0,0,0.000185,0.93,0.616,1.94
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_42,42,brown,fragment,Non-Fiber,Blacks,0,0,0,0.112,0.569,0.394,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_43,43,black,fragment,Non-Fiber,Blacks,0,0,0,0.055,0.449,0.253,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_44,44,black,fragment,Non-Fiber,Blacks,0,0,0,0.073,0.58,0.228,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_45,45,black,fragment,Non-Fiber,Blacks,0,0,0,0.102,0.704,0.297,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_46,46,black,fragment,Non-Fiber,Blacks,0,0,0,0.086,0.506,0.36,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_47,47,black,fragment,Non-Fiber,Blacks,0,0,0,0.033,0.525,0.232,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_48,48,black,fragment,Non-Fiber,Blacks,0,0,0,0.104,0.64,0.264,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_49,49,black,fragment,Non-Fiber,Blacks,0,0,0,0.048,0.38,0.253,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_50,50,black,fragment,Non-Fiber,Blacks,0,0,0,0.06,0.806,0.401,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_51,51,green,fragment,Non-Fiber,Greens,0,0,0,1.679,1.972,1.378,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_52,52,black,fragment,Non-Fiber,Blacks,0,0,0,0.083,0.525,0.419,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_53,53,black,fragment,Non-Fiber,Blacks,0,0,0,0.057,0.429,0.227,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_54,54,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back, tears apart easily.",0,0.214,1.445,0.56,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_56,56,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.103,0.484,0.344,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_57,57,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces easily.,0,0.094,0.436,0.366,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_58,58,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.117,0.54,0.317,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_59,59,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.183,0.662,0.523,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_A_60,60,black,fragment,Non-Fiber,Blacks,0,0,0,0.135,0.66,0.339,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_B_1,1,black,fragment,Non-Fiber,Blacks,0,0,0,1.104,3.604,1.033,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_B_2,2,black,fragment,Non-Fiber,Blacks,0,0,0,0.126,0.557,0.335,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_B_4,4,clear,fragment,Non-Fiber,Transparent,0,0,0,0.099,0.693,0.326,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_B_5,5,blue,fragment,Non-Fiber,Blues,0,0,0,0.068,0.823,0.212,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_B_6,6,brown,fragment,Non-Fiber,Blacks,0,0,0,0.362,0.906,0.623,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_B_7,7,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.162,0.811,0.343,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_B_8,8,black,fragment,Non-Fiber,Blacks,0,0,0,0.035,0.541,0.182,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_B_9,9,black,fragment,Non-Fiber,Blacks,0,0,0,0.094,0.616,0.285,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_B_10,10,black,fragment,Non-Fiber,Blacks,0,0,0,0.281,0.878,0.57,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_B_11,11,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back, tears apart easily.",0,0.066,0.566,0.264,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_B_12,12,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces easily.,0,0.019,0.367,0.08,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_B_13,13,black,fragment,Non-Fiber,Blacks,0,0,0,0.031,0.491,0.137,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_B_14,14,black,fragment,Non-Fiber,Blacks,0,hard texture.,0,0.063,1.65,0.529,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_B_15,15,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.06,0.483,0.192,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_B_16,16,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces easily.,0,0.441,1.014,0.739,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_B_17,17,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.136,0.595,0.391,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_B_18,18,black,fragment,Non-Fiber,Blacks,0,0,0,0.175,0.953,0.398,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_B_21,21,black,fragment,Non-Fiber,Blacks,0,broke into muliple pieces.,0,0.081,0.811,0.237,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_B_22,22,black,fragment,Non-Fiber,Blacks,0,0,0,0.548,1.117,0.837,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_B_23,23,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.11,0.667,0.279,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_B_24,24,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces.,0,0.083,0.53,0.252,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_B_25,25,black,fragment,Non-Fiber,Blacks,0,0,0,0.035,0.55,0.142,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_B_27,27,green,fragment,Non-Fiber,Greens,0,0,0,0.057,0.442,0.269,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_B_28,28,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces easily.,0,0.046,0.61,0.225,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_A_1,1,black,fragment,Non-Fiber,Blacks,0,0,0,0.06,0.394,0.281,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_A_2,2,white,fragment,Non-Fiber,Whites,0,0,0,0.146,1.256,0.539,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_A_3,3,black,fragment,Non-Fiber,Blacks,0,0,0,0.244,0.666,0.516,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_A_5,5,black,fragment,Non-Fiber,Blacks,0,0,0,0.082,0.578,0.297,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_A_7,7,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces.,0,0.043,0.728,0.36,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_A_8,8,black,fragment,Non-Fiber,Blacks,0,0,0,0.052,0.469,0.236,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_A_9,9,black,fragment,Non-Fiber,Blacks,0,0,0,0.11,0.466,0.369,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_A_10,10,black,fragment,Non-Fiber,Blacks,0,0,0,0.087,0.442,0.373,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_A_12,12,black,fragment,Non-Fiber,Blacks,0,0,0,0.161,0.847,0.36,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_A_13,13,black,fragment,Non-Fiber,Blacks,0,0,0,0.354,1.027,0.813,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_A_14,14,black,fragment,Non-Fiber,Blacks,0,0,0,0.054,0.535,0.292,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_A_15,15,gray,fragment,Non-Fiber,Blacks,0,0,0,0.12,0.728,0.358,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_A_16,16,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.151,0.778,0.404,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_A_17,17,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces.,0,0.045,0.398,0.163,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_A_18,18,black,fragment,Non-Fiber,Blacks,0,0,0,0.109,0.686,0.237,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_A_19,19,green,fragment,Non-Fiber,Greens,0,0,0,0.076,0.421,0.274,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_A_20,20,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces.,0,0.09,1.513,0.235,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_A_22,22,black,fragment,Non-Fiber,Blacks,0,0,0,0.072,0.774,0.205,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_A_23,23,black,fragment,Non-Fiber,Blacks,0,0,0,0.049,0.475,0.19,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_A_24,24,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.068,0.444,0.264,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_A_25,25,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back, tears apart easily.",0,0.049,0.859,0.298,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_A_28,28,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.169,0.868,0.311,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_A_1,1,black,fragment,Non-Fiber,Blacks,0,0,0,0.096,0.521,0.358,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_A_2,2,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.062,0.502,0.235,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_A_3,3,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.327,1.189,0.476,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_A_4,4,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.094,0.743,0.201,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_A_6,6,black,fragment,Non-Fiber,Blacks,0,0,0,0.102,0.582,0.274,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_A_7,7,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces.,0,0.04,0.605,0.155,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_A_9,9,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces easily.,0,0.088,0.683,0.263,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_A_10,10,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces.,0,0.142,1.157,0.206,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_A_11,11,gray,fragment,Non-Fiber,Blacks,0,0,0,0.339,1.001,0.537,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_A_12,12,white,foam,Non-Fiber,Whites,0,0,0,0.133,0.516,0.398,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_A_13,13,black,fragment,Non-Fiber,Blacks,0,0,0,0.067,0.387,0.246,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_A_14,14,black,fragment,Non-Fiber,Blacks,0,0,0,0.131,0.62,0.337,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_A_16,16,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces.,0,0.033,0.413,0.174,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_A_17,17,black,fragment,Non-Fiber,Blacks,0,0,0,0.037,1.024,0.168,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_A_18,18,black,fragment,Non-Fiber,Blacks,0,0,0,0.15,0.983,0.575,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_A_19,19,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.095,0.708,0.26,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_A_20,20,black,fragment,Non-Fiber,Blacks,0,0,0,0.069,0.705,0.245,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_B_1,1,yellow,fragment,Non-Fiber,Yellows,0,0,0,0.48,0.858,0.781,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_B_2,2,black,fragment,Non-Fiber,Blacks,0,0,0,0.073,0.473,0.207,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_B_3,3,black,fragment,Non-Fiber,Blacks,0,0,0,0.065,0.425,0.277,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_B_4,4,yellow,fragment,Non-Fiber,Yellows,0,0,0,0.086,0.482,0.245,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_B_5,5,black,fragment,Non-Fiber,Blacks,0,0,0,0.073,0.373,0.27,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_B_6,6,black,fragment,Non-Fiber,Blacks,0,0,0,0.09,0.498,0.283,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_B_8,8,black,fragment,Non-Fiber,Blacks,0,0,0,0.065,0.35,0.268,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_B_9,9,black,fragment,Non-Fiber,Blacks,0,0,0,0.097,0.404,0.359,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_B_12,12,black,fragment,Non-Fiber,Blacks,0,0,0,0.06,0.455,0.203,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_B_15,15,green,fragment,Non-Fiber,Greens,0,0,0,1.114,1.999,0.789,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_B_17,17,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.09,0.509,0.341,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_B_18,18,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.153,0.637,0.41,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_B_19,19,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back, could make dents in the particle.",0,0.157,0.589,0.355,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_B_20,20,brown,fragment,Non-Fiber,Blacks,0,0,0,0.098,0.871,0.235,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_B_21,21,orange,fragment,Non-Fiber,Yellows,0,0,done,2.868,2.54,1.619,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_B_24,24,black,fragment,Non-Fiber,Blacks,0,0,0,0.074,0.434,0.286,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_B_25,25,black,fragment,Non-Fiber,Blacks,0,0,0,0.048,0.333,0.197,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_B_26,26,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces.,0,0.04,0.42,0.228,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_B_27,27,black,fragment,Non-Fiber,Blacks,0,0,0,0.223,0.838,0.5,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_B_29,29,black,fragment,Non-Fiber,Blacks,0,0,0,0.045,0.32,0.227,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_B_30,30,black,fragment,Non-Fiber,Blacks,0,0,0,0.066,0.715,0.222,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_B_31,31,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces.,0,0.067,0.611,0.199,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_B_33,33,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces.,0,0.26,1.032,0.365,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_B_35,35,black,fragment,Non-Fiber,Blacks,0,0,0,0.204,0.696,0.548,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_B_41,41,black,fragment,Non-Fiber,Blacks,0,0,0,0.142,0.563,0.411,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_1,1,yellow,fragment,Non-Fiber,Yellows,0,0,0,0.406,0.828,0.727,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_3,3,black,fragment,Non-Fiber,Blacks,0,0,0,0.109,0.514,0.349,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_6,6,white,fragment,Non-Fiber,Whites,0,0,0,0.231,0.61,0.512,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_7,7,white,foam,Non-Fiber,Whites,0,"not styrofoam, but broken down foam.",0,1.766,2.022,1.292,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_8,8,black,fragment,Non-Fiber,Blacks,0,0,0,1.813,3.038,1.522,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_9,9,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.063,0.542,0.224,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_12,12,black,fragment,Non-Fiber,Blacks,0,0,0,0.072,0.419,0.261,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_13,13,black,fragment,Non-Fiber,Blacks,0,0,0,0.07,0.395,0.246,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_15,15,brown,fragment,Non-Fiber,Blacks,0,0,0,1.601,1.794,1.44,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_17,17,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.077,0.715,0.209,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_18,18,black,fragment,Non-Fiber,Blacks,0,0,0,0.088,0.462,0.304,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_20,20,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.101,0.741,0.291,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_21,21,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.192,0.603,0.532,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_23,23,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces.,0,0.083,0.703,0.244,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_24,24,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.073,0.465,0.295,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_25,25,yellow,fragment,Non-Fiber,Yellows,0,0,0,0.14,0.537,0.397,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_26,26,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.596,1.242,0.68,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_28,28,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.113,0.606,0.304,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_29,29,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.283,0.928,0.53,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_30,30,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.231,0.651,0.508,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_32,32,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.208,0.874,0.451,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_35,35,black,fragment,Non-Fiber,Blacks,0,0,0,0.115,0.496,0.427,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_36,36,brown,fragment,Non-Fiber,Blacks,0,0,0,0.223,1.789,0.424,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_37,37,white,fragment,Non-Fiber,Whites,0,0,0,0.151,0.833,0.356,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_38,38,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back, tears apart easily.",0,0.301,1.452,0.581,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_39,39,black,fragment,Non-Fiber,Blacks,0,0,0,0.15,0.976,0.221,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_40,40,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.323,0.831,0.63,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_41,41,black,fragment,Non-Fiber,Blacks,0,particle could be flattened.,0,0.145,0.579,0.399,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_42,42,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.14,0.651,0.456,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_43,43,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.538,1.376,0.717,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_44,44,black,fragment,Non-Fiber,Blacks,0,0,0,0.246,0.695,0.524,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_45,45,black,fragment,Non-Fiber,Blacks,0,could make a dent in the particle.,0,0.246,1.124,0.51,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_C_46,46,pink,fragment,Non-Fiber,Reds,0,0,0,0.038,0.321,0.171,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_1,1,brown,fragment,Non-Fiber,Blacks,0,broke into multiple pieces.,0,0.619,1.287,0.814,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_5,5,white,fragment,Non-Fiber,Whites,0,0,0,0.412,0.909,0.642,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_6,6,brown,fragment,Non-Fiber,Blacks,0,0,0,0.472,0.995,0.768,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_8,8,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.385,0.936,0.73,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_10,10,black,fragment,Non-Fiber,Blacks,0,0,0,0.147,0.617,0.409,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_12,12,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces easily.,0,1.036,1.461,1.074,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_15,15,black,fragment,Non-Fiber,Blacks,0,0,0,0.142,0.553,0.392,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_18,18,black,fragment,Non-Fiber,Blacks,0,0,0,0.149,0.581,0.45,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_22,22,black,fragment,Non-Fiber,Blacks,0,0,0,0.28,0.961,0.502,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_27,27,white,fragment,Non-Fiber,Whites,0,0,0,1.725,2.1,1.041,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_29,29,gray,fragment,Non-Fiber,Blacks,0,broke into multiple pieces easily.,0,1.061,1.629,1.13,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_32,32,white,fragment,Non-Fiber,Whites,0,0,0,0.372,1.064,0.467,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_C_1,1,black,fragment,Non-Fiber,Blacks,0,0,0,0.138,0.597,0.411,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_C_2,2,black,fragment,Non-Fiber,Blacks,0,0,0,0.145,0.596,0.411,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_C_3,3,green,fragment,Non-Fiber,Greens,0,breaks easily,done,0.147,1.225,0.262,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_C_12,12,black,TW,Non-Fiber,Blacks,0,0,0,0.053,0.424,0.277,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_C_14,14,black,fragment,Non-Fiber,Blacks,0,0,0,0.166,0.67,0.503,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_C_16,16,black,TW,Non-Fiber,Blacks,0,0,0,0.051,0.763,0.189,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_C_20,20,green,fragment,Non-Fiber,Greens,0,0,0,0.239,0.754,0.587,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_C_23,23,green,fragment,Non-Fiber,Greens,0,0,0,0.076,1.253,0.2,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_C_24,24,black,fragment,Non-Fiber,Blacks,0,0,0,0.038,0.582,0.135,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_C_25,25,black,TW,Non-Fiber,Blacks,0,0,0,0.112,0.518,0.352,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_C_27,27,black,TW,Non-Fiber,Blacks,0,0,0,0.06,0.38,0.239,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_C_28,28,black,TW,Non-Fiber,Blacks,0,0,0,0.084,0.384,0.306,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_C_30,30,blue,fragment,Non-Fiber,Blues,0,0,0,0.000319,3.329,0.72,4.243
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_C_31,31,black,TW,Non-Fiber,Blacks,0,0,0,0.089,0.436,0.314,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_C_32,32,clear,film,Non-Fiber,Transparent,0,0,done,1.049,2.513,0.876,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_C_33,33,black,TW,Non-Fiber,Blacks,0,0,0,0.059,0.572,0.199,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_C_34,34,black,TW,Non-Fiber,Blacks,0,0,0,0.09,0.519,0.264,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_C_37,37,black,fragment,Non-Fiber,Blacks,0,0,0,0.082,0.522,0.322,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_C_38,38,black,TW,Non-Fiber,Blacks,0,0,0,0.052,0.425,0.182,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_C_39,39,black,TW,Non-Fiber,Blacks,0,0,0,0.036,0.329,0.207,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_C_41,41,black,TW,Non-Fiber,Blacks,0,0,0,0.066,0.533,0.295,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_C_42,42,black,fragment,Non-Fiber,Blacks,0,0,0,0.205,0.734,0.459,0
+SAD,1,DF-2,SAD-DF-2-N-1,SAD-DF-2,SAD-DF-2-N-1_S0-0_C_43,43,black,TW,Non-Fiber,Blacks,0,0,0,0.107,0.611,0.303,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_B_2,2,blue,fragment,Non-Fiber,Blues,0,breaks apart easily,done,0.0001276,0.897,0.323,1.156
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_B_4,4,black,fragment,Non-Fiber,Blacks,0,0,0,0.15,0.668,0.354,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_B_5,5,black,TW,Non-Fiber,Blacks,0,0,0,0.102,0.722,0.232,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_B_6,6,green,fragment,Non-Fiber,Greens,0,0,0,0.068,0.673,0.164,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_B_12,12,clear,fragment,Non-Fiber,Transparent,0,0,0,0.0001914,1.777,0.545,2.209
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_B_15,15,black,fragment,Non-Fiber,Blacks,0,0,0,0.107,0.709,0.367,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_B_18,18,gray,fragment,Non-Fiber,Blacks,0,0,0,0.054,0.535,0.282,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_B_19,19,green,fragment,Non-Fiber,Greens,0,0,0,0.637,1.333,0.671,0
+SAD,2,DF-2,SAD-DF-2-N-2,SAD-DF-2,SAD-DF-2-N-2_S0-0_B_23,23,black,fragment,Non-Fiber,Blacks,0,0,0,0.285,1.018,0.527,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_2,2,gray,fragment,Non-Fiber,Blacks,0,0,0,0.046,1.085,0.184,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_3,3,gray,fragment,Non-Fiber,Blacks,0,0,0,0.076,0.571,0.218,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_5,5,black,TW,Non-Fiber,Blacks,0,0,0,0.169,0.721,0.434,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_6,6,black,TW,Non-Fiber,Blacks,0,0,0,0.000128,0.653,0.12,0.718
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_7,7,black,TW,Non-Fiber,Blacks,0,0,0,0.06,0.761,0.272,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_8,8,black,TW,Non-Fiber,Blacks,0,0,0,0.066,0.436,0.234,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_11,11,gray,fragment,Non-Fiber,Blacks,0,0,0,0.246,1.384,0.702,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_13,13,black,TW,Non-Fiber,Blacks,0,0,0,0.029,0.617,0.215,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_14,14,black,fragment,Non-Fiber,Blacks,0,0,0,0.000191,1.124,0.26,1.437
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_15,15,black,TW,Non-Fiber,Blacks,0,0,0,0.111,0.552,0.33,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_16,16,gray,fragment,Non-Fiber,Blacks,0,0,0,0.000128,0.723,0.471,1.395
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_17,17,black,TW,Non-Fiber,Blacks,0,0,0,0.059,0.564,0.163,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_20,20,blue,fragment,Non-Fiber,Blues,0,0,0,0.047,0.974,0.197,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_22,22,black,fragment,Non-Fiber,Blacks,0,0,0,0.000128,0.708,0.184,0.821
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_26,26,black,fragment,Non-Fiber,Blacks,0,0,0,0.322,0.885,0.579,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_27,27,black,fragment,Non-Fiber,Blacks,0,0,0,0.000191,1.612,0.272,1.788
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_29,29,black,TW,Non-Fiber,Blacks,0,0,0,0.068,0.512,0.301,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_32,32,black,fragment,Non-Fiber,Blacks,0,0,done,0.32,1.168,0.487,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_33,33,gray,fragment,Non-Fiber,Blacks,0,0,0,0.000319,3.923,0.608,4.211
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_34,34,black,TW,Non-Fiber,Blacks,0,0,0,0.072,0.566,0.296,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_35,35,black,TW,Non-Fiber,Blacks,0,0,0,0.119,0.75,0.246,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_36,36,black,TW,Non-Fiber,Blacks,0,0,0,0.079,0.947,0.246,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_37,37,black,fragment,Non-Fiber,Blacks,0,0,0,0.117,0.518,0.461,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_38,38,black,TW,Non-Fiber,Blacks,0,0,0,0.038,0.365,0.254,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_42,42,black,TW,Non-Fiber,Blacks,0,0,0,0.084,1.086,0.166,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_45,45,black,TW,Non-Fiber,Blacks,0,0,0,0.138,0.532,0.37,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_46,46,black,TW,Non-Fiber,Blacks,0,0,0,0.184,1.001,0.393,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_48,48,black,fragment,Non-Fiber,Blacks,0,0,0,0.183,0.998,0.461,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_E_49,49,black,TW,Non-Fiber,Blacks,0,0,0,0.117,0.504,0.429,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_1,1,brown,fragment,Non-Fiber,Blacks,0,broke into multiple pieces.,0,0.619,1.287,0.814,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_5,5,white,fragment,Non-Fiber,Whites,0,0,0,0.412,0.909,0.642,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_6,6,brown,fragment,Non-Fiber,Blacks,0,0,0,0.472,0.995,0.768,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_8,8,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.385,0.936,0.73,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_10,10,black,fragment,Non-Fiber,Blacks,0,0,0,0.147,0.617,0.409,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_12,12,black,fragment,Non-Fiber,Blacks,0,broke into multiple pieces easily.,0,1.036,1.461,1.074,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_15,15,black,fragment,Non-Fiber,Blacks,0,0,0,0.142,0.553,0.392,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_18,18,black,fragment,Non-Fiber,Blacks,0,0,0,0.149,0.581,0.45,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_22,22,black,fragment,Non-Fiber,Blacks,0,0,0,0.28,0.961,0.502,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_27,27,white,fragment,Non-Fiber,Whites,0,0,0,1.725,2.1,1.041,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_29,29,gray,fragment,Non-Fiber,Blacks,0,broke into multiple pieces easily.,0,1.061,1.629,1.13,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_32,32,white,fragment,Non-Fiber,Whites,0,0,0,0.372,1.064,0.467,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_36,36,clear,fragment,Non-Fiber,Transparent,0,sticky like glue; and bouncy,done,0.126,0.636,0.37,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_37,37,black,fragment,Non-Fiber,Blacks,0,0,0,0.446,3.079,0.586,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_38,38,black,fragment,Non-Fiber,Blacks,0,0,0,0.298,0.802,0.612,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_39,39,pink,fragment,Non-Fiber,Reds,0,0,0,0.302,0.754,0.608,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_40,40,black,fragment,Non-Fiber,Blacks,0,could make dents in the particle.,0,0.66,1.644,0.618,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_41,41,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back, could make dents in the particle.",0,0.175,0.558,0.453,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_42,42,pink,fragment,Non-Fiber,Reds,0,0,0,0.114,0.957,0.299,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_47,47,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.045,0.346,0.259,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_48,48,pink,fragment,Non-Fiber,Reds,0,0,0,0.098,0.514,0.333,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_49,49,black,fragment,Non-Fiber,Blacks,0,could make dents in the particle.,0,0.248,0.965,0.533,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_54,54,black,fragment,Non-Fiber,Blacks,0,0,0,0.504,1.175,0.696,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_55,55,black,fragment,Non-Fiber,Blacks,0,0,0,0.079,0.855,0.418,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_56,56,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.027,0.409,0.123,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_61,61,gray,film,Non-Fiber,Blacks,0,0,0,0.000247,2.8,0.795,3.905
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_69,69,white,fragment,Non-Fiber,Whites,0,0,0,0.072,0.544,0.256,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_70,70,red,fragment,Non-Fiber,Reds,0,0,0,0.055,0.367,0.288,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_72,72,black,fragment,Non-Fiber,Blacks,0,0,0,0.059,0.424,0.276,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_73,73,white,fragment,Non-Fiber,Whites,0,0,0,0.328,0.807,0.525,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_79,79,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back.",0,0.078,0.747,0.201,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_81,81,black,fragment,Non-Fiber,Blacks,0,0,0,0.064,0.583,0.415,0
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_83,83,black,film,Non-Fiber,Blacks,0,0,0,0.000247,2.875,0.68,4.102
+SAD,3,DF-2,SAD-DF-2-N-3,SAD-DF-2,SAD-DF-2-N-3_S0-0_D_84,84,black,TW,Non-Fiber,Blacks,0,"rubbery texture, bounces back, tears apart easily.",0,0.097,1.079,0.253,0
