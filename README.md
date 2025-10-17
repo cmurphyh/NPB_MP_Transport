@@ -1,5 +1,7 @@
 # NPB_MP_Transport
-All code, datasets and other Supplemental Materials associated with Murphy-Hagan et al. 2024
+All code, datasets and other Supplemental Materials associated with:
+Murphy-Hagan, C., Gray, A.B., Singh, S., Hapich, H., Cowger, W., 2025. Quantifying microplastic fluvial flux from a coastal watershed-A microplastic rating curve approach. J. Environ. Manage. 394, 127445. https://doi.org/10.1016/j.jenvman.2025.127445
+
 
 Supporting Information Contents
 
